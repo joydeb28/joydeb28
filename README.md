@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Joy, an Applied Scientist diving into data science 👨‍💻 
+# 👋 Hi! I'm Joy, an Applied Scientist diving into Data Science 👨‍💻 
 
 ### 🤵About Me 
 
