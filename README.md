@@ -6,7 +6,7 @@ Welcome to my GitHub world! I'm passionate about leveraging cutting-edge technol
 
 ### 🌐 Connect with Me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joydeb-mondal/)](https://www.linkedin.com/in/joydeb-mondal/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:mail@joydeb28@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:joydeb28@gmail.com)
 
 
 ### 🔥 Skills & Expertise 
